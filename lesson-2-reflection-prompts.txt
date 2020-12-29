@@ -1,10 +1,16 @@
-What happens when you initialize a repository? Why do you need to do it?
+What happens when you initialize a repository? 
+Creates a .git directory.
+Why do you need to do it?
+To track the changes in the code.
 
 How is the staging area different from the working directory and the repository?
+Indica los archivos que fueron modificados y que nos interesa guardar en el repositorio.
 What value do you think it offers?
+Ayuda a visualizar los cambios en los archivos que realmente se requieren en lugar de todos los archivos.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+Podemos agregar a staging area solo los archivos que queramos en el commit, incluso si hemos modificado mas de un archivo. Por otra parte podemos visualizar los archivos que se agregaran al commit con el comando git diff --staged
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
