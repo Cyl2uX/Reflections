@@ -25,3 +25,6 @@ Why do we represent it in the diagram the way we do? Es facil identificar el mom
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic merging nos ahorra algo de trabajo al mezclar archivos, pero cuando hay conflictos no sabe que hacer sobre que lineas de codigo elegir.
+Los merge manuales tienen la ventaja que el codigo es analizado por un programador para determinar que no existan conflictos y se elija la mejor opcion, aunque pueden ocurrir casos en que no siempre es asi.
+
