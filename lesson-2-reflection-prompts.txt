@@ -18,9 +18,10 @@ organized? Cuando queramos probar alguna caracteristica nueva.
 How would branches help? Podemos hacer cambios a otra rama sin afectar la funcionalidad de la rama principal
 
 How do the diagrams help you visualize the branch structure?
+Es mas facil visualizar las ramas en diagramas.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Se crea una sola rama con los commits ordenados de forma cronologica.
+Why do we represent it in the diagram the way we do? Es facil identificar el momento en que se mezclaron las ramas en una sola.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
