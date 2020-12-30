@@ -4,3 +4,9 @@ Cuando sea un proyecto de una empresa o si estoy trabajando en equipo o se desea
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Si hay varios desarrolladores en el equipo probablemente podria estar descargando mas de lo usual.
 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork cuando quiero trabajar sobre un proyecto existente de otro desarrollador del cual no soy colaborador.
+Clone Copiar un repo a mi maquina local sabiendo que no puedo hacer push al codigo o empezar con un reposiorio en blanco
+Branch Trabajar en una nueva feature o arreglar un bug.
+
