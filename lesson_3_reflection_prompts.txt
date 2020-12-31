@@ -13,3 +13,7 @@ Branch Trabajar en una nueva feature o arreglar un bug.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Es menos probable que tengamos conflictos al pushear nuestros cambios.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Unificar el codigo seria dificil sin github, quiza si usamos algo como google docs en el futuro seria mas facil.
+
