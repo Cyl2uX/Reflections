@@ -10,3 +10,6 @@ Fork cuando quiero trabajar sobre un proyecto existente de otro desarrollador de
 Clone Copiar un repo a mi maquina local sabiendo que no puedo hacer push al codigo o empezar con un reposiorio en blanco
 Branch Trabajar en una nueva feature o arreglar un bug.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Es menos probable que tengamos conflictos al pushear nuestros cambios.
