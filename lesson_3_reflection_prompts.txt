@@ -17,3 +17,6 @@ Es menos probable que tengamos conflictos al pushear nuestros cambios.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Unificar el codigo seria dificil sin github, quiza si usamos algo como google docs en el futuro seria mas facil.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I want to use a separate branch to have master working all the time. Merge the code directly in master could be easy to manage but also we could find scenarios where master is not working.
+
